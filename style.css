@@ -1,0 +1,35 @@
+.album{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    margin: 20px;
+}
+.form{
+    margin: 40px;
+}
+.portf{
+    margin-bottom: 30px;
+    padding-top: 0;
+    margin-top: 0;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 3.5rem;
+}
+a:hover img {
+   
+    width: 43px;
+    
+}
+.tools{
+    margin: auto;
+}
+.heroimg{
+    border-radius: 15px;
+}
+.herotext{
+   padding-left: 0;
+   margin-left: 0;
+}
